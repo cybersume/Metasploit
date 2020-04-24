@@ -2,5 +2,5 @@
 
 pkg update
 pkg install unstable-repo
-pkg metasploit
+pkg install metasploit
 
